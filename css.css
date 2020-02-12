@@ -1,0 +1,13 @@
+#clickbtn {
+  width: 250px;
+  height: 150px;
+  color: white;
+  background-color: #444444;
+  font-size: 35px;
+  font-family: verdana;
+  border: 1px solid black;
+}
+
+body {
+  background-color: #808080;
+}
