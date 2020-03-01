@@ -1,0 +1,108 @@
+#clickbtn {
+width: 250px; 
+height: 150px;  
+color: white;  
+background-color: #444444;
+font-size: 35px;
+font-family: verdana;
+border: 1px solid black;
+}
+#loadBtn {
+width: 250px;
+height: 50px; 
+color: white; 
+background-color: #444444;
+font-size: 35px; 
+font-family: verdana;
+border: 1px solid black;
+}
+#saveBtn {
+width: 250px;  
+height: 50px; 
+color: white;  
+background-color: #444444; 
+font-size: 35px;  
+font-family: verdana; 
+border: 1px solid black;
+}
+#AutoClickerBtn {
+width: 250px;  
+height: 150px;  
+color: white; 
+background-color: #444444; 
+font-size: 35px;  
+font-family: verdana; 
+border: 1px solid black;
+}
+#MultiplierBtn {
+width: 250px; 
+height: 150px; 
+color: white;  
+background-color: #444444;
+font-size: 35px; 
+font-family: verdana; 
+border: 1px solid black;
+}
+
+
+
+#ScoreDisplay {
+font-size: 65px;
+font-family: "Sans-serif", Arial;
+}
+
+#costAutoClick{
+position: relative;
+left: -350px;
+bottom: 500px;
+font-size: 25px;
+font-family: "Sans-serif", Arial;
+}
+#ammountAutoClick{
+position: relative;
+left: -350px;
+bottom: 500px;	
+font-size: 25px;
+font-family: "Sans-serif", Arial;
+}
+#costMultiplier{
+font-size: 25px;
+position: relative;
+left: -350px;
+bottom: 450px;
+font-family: "Sans-serif", Arial;
+}
+#multiplierAmount{
+font-size: 25px;
+position: relative;
+left: -350px;
+bottom: 450px;
+font-family: "Sans-serif", Arial;
+}
+#clickmultiplieramount{
+font-size: 25px;
+position: relative;
+left: -350px;
+bottom: -350px;
+font-family: "Sans-serif", Arial;
+}
+#costclickmultiplier{
+font-size: 25px;
+position: relative;
+left: -350px;
+bottom: -350px;
+font-family: "Sans-serif", Arial;
+}
+#ClickMultiplierButton{
+  width: 250px; 
+  height: 150px; 
+  color: white;  
+  background-color: #444444;
+  font-size: 35px; 
+  font-family: verdana; 
+  border: 1px solid black;
+  }
+
+body {
+  background-color: #808080;
+}
